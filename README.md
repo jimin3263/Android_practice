@@ -11,3 +11,4 @@
 - [Inflation](https://github.com/jimin3263/android_practice/blob/master/android_md/4.Inflation,Intent.md)  
 - [Fragment](https://github.com/jimin3263/android_practice/blob/master/android_md/5-1.Fragment.md) / [FragmentApplication](https://github.com/jimin3263/android_practice/blob/master/android_md/5-2.Fragment_application.md)  
 - [Service](https://github.com/jimin3263/android_practice/blob/master/android_md/6.Service.md) 
+- [RecyclerView](https://github.com/jimin3263/android_practice/blob/master/android_md/7.Custom.md)
